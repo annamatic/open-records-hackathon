@@ -54,6 +54,7 @@ Hello!
   
 ### User Flows:
 ![Open Records User Flow](/images/OpenRecords-Drawio-UserFlows.png)
-[Open in Draw.io](/OpenRecords-Drawio-UserFlows.xml)
+[Open in Draw.io](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&title=OpenRecords-Drawio-UserFlows.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fannamatic%2Fopen-records-hackathon%2Fmaster%2FOpenRecords-Drawio-UserFlows.xml)
 
+### Wireframes:
 
