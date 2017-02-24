@@ -59,4 +59,4 @@ Hello!
 ### Wireframes:
 | Homepage | Search Results & Knowledgbase | View Results | Make a Request |
 |-------|-------|-------|-------|
-| ![Open Records Homepage](/images/OpenRecords-Drawio-Homepage-Annamatic.png) | ![Open Records Knowledgbase](/images/OpenRecords-Drawio-Homepage-Annamatic.png) |
+| ![Open Records Homepage](/images/OpenRecords-Drawio-Homepage-Annamatic.png) | ![Open Records Knowledgbase](/images/OpenRecords-Drawio-Knowledgebase-Annamatic.png) | ![Open Records View Requests](/images/OpenRecords-Drawio-ViewRequests-Annamatic.png) | ![Open Records View Requests](/images/OpenRecords-Drawio-RequestaRecord1.png) |
