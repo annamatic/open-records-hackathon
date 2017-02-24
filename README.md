@@ -29,7 +29,7 @@ Hello!
   - I can view current and past Requests.
   - I can make my own Request.
 
-2. ** From my Search Results and in the Knowledgbase, I can see...**
+2. **From my Search Results and in the Knowledgbase, I can see...**
   - which city agency supplies the records that I’m looking for
   - that not all requests are successful and that this has something to do with what information I put in the request. 
   - advice about what information to include in my specific request to improve my chances of success.
@@ -53,7 +53,7 @@ Hello!
   - at least 1 form of contact information will be required.
   
 ### User Flows:
-
+![Open Records User Flow](/images/OpenRecords-Drawio-UserFlows.png)
 
 
 
