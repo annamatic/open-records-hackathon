@@ -54,6 +54,6 @@ Hello!
   
 ### User Flows:
 ![Open Records User Flow](/images/OpenRecords-Drawio-UserFlows.png)
-
+[Open in Draw.io](/OpenRecords-Drawio-UserFlows.xml)
 
 
