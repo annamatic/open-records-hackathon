@@ -20,6 +20,10 @@ Hello!
 |------------------|------------------|
 | *would like to see personnel records for a specific teacher at the zoned middle school in her neighborhood.* | *is seeking all 311 complaint records for 3 different buildings managed by XYZ.* | 
 | <small>Ms. Nelson is a part of a parents' group in her neighborhood in District 24. Her son will be attending their zoned middle school next year. She has heard 2nd-hand that many other parents had complained about one of the teachers, but the schoool's parent coordinator would not confirm it. She might put her son in the nearby Catholic school next year because of her concerns. Because she works full-time, she has to do her online research at night.</small> | <small>Ms. Oslow is a young attorney with 5 years experience. Sometimes her paralegal assists her with FOIL requests and sometimes she does them herself. In the past, she has emailed her FOIL Requests to the relevant Records Officer, but she thinks that doing it on Open Records might help her keep track of them. She is currently representing a client in a personal injury lawsuit against a building management company.</small> |
+  
+### User Flows:
+![Open Records User Flow](/images/OpenRecords-Drawio-UserFlows.png)
+[Open the User Flow Diagram in Draw.io](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&title=OpenRecords-Drawio-UserFlows.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fannamatic%2Fopen-records-hackathon%2Fmaster%2FOpenRecords-Drawio-UserFlows.xml)
 
 ### User Goals:
 1. **On the Homepage, I can see that...**
@@ -51,10 +55,6 @@ Hello!
   - the information required in the form fall into 3 main steps, and that the 1st step will have public information while the 2nd and 3rd steps are private.
   - I will need specific background knowledge to fill out the Summary and the Description in the best way. 
   - at least 1 form of contact information will be required.
-  
-### User Flows:
-![Open Records User Flow](/images/OpenRecords-Drawio-UserFlows.png)
-[Open the User Flow Diagram in Draw.io](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&title=OpenRecords-Drawio-UserFlows.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fannamatic%2Fopen-records-hackathon%2Fmaster%2FOpenRecords-Drawio-UserFlows.xml)
 
 ### Wireframes:
 | Homepage | Search Results & Knowledgbase | View Results | Make a Request |
