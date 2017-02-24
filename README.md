@@ -58,5 +58,5 @@ Hello!
 
 ### Wireframes:
 | Homepage | Search Results & Knowledgbase | View Results | Make a Request |
-|-------|-------|-------|-------|
+|-----------|-------|-------|-------|
 | ![Open Records Homepage](/images/OpenRecords-Drawio-Homepage-Annamatic.png) | ![Open Records Knowledgbase](/images/OpenRecords-Drawio-Knowledgebase-Annamatic.png) ![Open Records Search Results](/images/OpenRecords-Drawio-SearchResults-Annamatic.png)| ![Open Records View Requests](/images/OpenRecords-Drawio-ViewRequests-Annamatic.png) ![Open Records View Requests Agency Closed](/images/OpenRecords-Drawio-ViewRequests2-Annamatic.png) | ![Open Records Make Request 1](/images/OpenRecords-Drawio-RequestaRecord1.png) ![Open Records Make Request 2](/images/OpenRecords-Drawio-RequestaRecord2.png) |
