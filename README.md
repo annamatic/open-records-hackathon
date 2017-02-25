@@ -37,7 +37,7 @@ After analyzing the current site and researching other sites like <a href="https
 ### User Flows:
 The proposed user flow is based on the typical structure of a technical or customer support website, prioritizing a Knowledge Base (so users can search and browse pertinent information) and View Requests list (that can easily be filtered, sorted and scanned for information). For Newbie users, by prioritizing, anticipating and answering many of their questions on-site, Open Records can "filter out" users who in fact don't need file a FOIA request and "prime" other users with quality information that will help them write better Requests. Pro users can skip these steps and easily proceed to View Requests or Making a Request. After a Request has been made, a confirmation screen gives feedback to the user that their Request has been sent, and provides a tracking number. Notifications sent by Open Records can be used to alert users who have made Requests when information in the Request has been updated. It is possible to introduce a login/password at this point for users to view more secure information related to their Requests, but this part of the flow has not been mapped for this project.
 
-![Open Records User Flow](/images/OpenRecords-Drawio-UserFlows.png)
+![Open Records User Flow](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-UserFlows.png)
 [Open the User Flow Diagram in Draw.io](https://www.draw.io/?lightbox=1&target=blank&highlight=0000ff&edit=_blank&layers=1&title=OpenRecords-Drawio-UserFlows.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fannamatic%2Fopen-records-hackathon%2Fmaster%2FOpenRecords-Drawio-UserFlows.xml)
 
 [Back to top](#table-of-contents)
@@ -79,7 +79,7 @@ On the Make a Request page, I can...
 ### Wireframes PNGs:
 | Homepage | Search Results & Knowledgbase | View Results | Make a Request |
 |-----------|-------|-------|-------|
-| ![Open Records Homepage](/images/OpenRecords-Drawio-Homepage-Annamatic.png) | ![Open Records Knowledgbase](/images/OpenRecords-Drawio-Knowledgebase-Annamatic.png) | ![Open Records View Requests](/images/OpenRecords-Drawio-ViewRequests-Annamatic.png) | ![Open Records Make Request 1](/images/OpenRecords-Drawio-MakeaRequest1.png) |
+| ![Open Records Homepage](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-Homepage-Annamatic.png) | ![Open Records Knowledgbase](/images/OpenRecords-Drawio-Knowledgebase-Annamatic.png) | ![Open Records View Requests](/images/OpenRecords-Drawio-ViewRequests-Annamatic.png) | ![Open Records Make Request 1](/images/OpenRecords-Drawio-MakeaRequest1.png) |
 | | ![Open Records Search Results](/images/OpenRecords-Drawio-SearchResults-Annamatic.png) | ![Open Records View Requests Agency Closed](/images/OpenRecords-Drawio-ViewRequests2-Annamatic.png) | ![Open Records Make Request 2](/images/OpenRecords-Drawio-MakeaRequest2.png) |
 | | | | ![Open Records Make Request 3](/images/OpenRecords-Drawio-MakeaRequest3.png) |
 | | | | ![Open Records Make Request 4](/images/OpenRecords-Drawio-MakeaRequest4.png) |
