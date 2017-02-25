@@ -35,17 +35,10 @@ Hello! Here's my submission to the Open Records Hackathon February 25, 2017, a s
 [Back to top](#table-of-contents)
 
 ### User Goals:
-1. **On the Homepage, I can see that...**
-  - this is a place to submit Requests for documents from the city government. 
-  - if I enter what I’m looking for in the search bar, I will get information about how to submit a Request for it. 
-  - some Requests are successful and others are not.
-  - I can view current and past Requests.
-  - I can make my own Request.
 
-2. **From my Search Results and in the Knowledgbase, I can see...**
-  - which city agency supplies the records that I’m looking for
-  - that not all requests are successful and that this has something to do with what information I put in the request. 
-  - advice about what information to include in my specific request to improve my chances of success.
+| On the Homepage, I can... | From my Search Results & the Knowledge Base, I can see... | On the View Results page, I can see... | On the Make a Request page, I can see... |
+|-------|-------|-------|-------|
+| <ul><li>see that this is a website to submit Requests for documents from the city government.</li><li>search for information about how to submit a Request.</li><li>see that some Requests are successful and others are not.</li><li>see a link to view current and past Requests.</li><li>tell that some Requests are successful and others are not</li><li>see that I can make my own Request.</li></ul> | <ul><li>which city agency supplies the records that I’m looking for.</li><li>that not all requests are successful and that this has something to do with what information I put in the request.</li><li>advice about what information to include in my specific request to improve my chances of success.</li></ul> | <ul><li>the nature of each Request.</li><li>the Agency each Request is for.</li><li>The status of each Request</li><li>the outcome of each Request.</li></ul> | <ul><li>that there are 5 steps to this form.</li><li>what the information required for each step is, and why</li><li>which steps might require information that I can glean from the Knowledge Base</li><li>whether information from each step will be public or private.</li></ul> |
 
 3. **On the View Requests page, I can see that...**
   - I can view all the past requests, filter them by agency, keyword, date range and/or status and outcome.
@@ -59,11 +52,6 @@ Hello! Here's my submission to the Open Records Hackathon February 25, 2017, a s
   - when I filter the Requests by Agency I can see data about that Agency: how long it takes for them to close requests and what their completed/denied rates are. 
   - when I filter the Requests according to Keywords in the Summary, I can scan to see how many were denied and for what reason.
   - I can check the status of an existing Request by tracking it with a FOIL ID#. 
-  
-3. **On the Make a Request page, I can see that...**
-  - the information required in the form fall into 5 steps, and I can tell at each step whether the information will be public or private.
-  - I can check the Knowledge Base for specific information to fill out the Summary and the Description in the best way. 
-  - at the final step, at least 1 form of contact information will be required.
 
 [Back to top](#table-of-contents)
 
