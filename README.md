@@ -44,21 +44,24 @@ Note: While it could be technically possible to make numerous different Make a R
 
 ### User Goals:
 
-On the Homepage, I can...
+**On the Homepage, I can...**
 - see that this is a website to submit Requests for documents from the city government.
 - search for information about how to submit a Request.
 - see a link to view current and past Requests.
 - see that I can make my own Request.
-On the Search Results and in the Knowledge Base, I can...
+
+**On the Search Results and in the Knowledge Base, I can...**
 - find information about which city agency supply the records that I’m looking for.
 - tell that not all requests are successful and that this has something to do with what information I put in the request.
 - see that there is advice available about what information to include in my specific request to improve my chances of success.
 - see what other people have searched for.
-On the View Results page, I can...
+
+**On the View Results page, I can...**
 - track an existing Request by FOIL ID#.
 - determine if one of these listed Requests is the same as the Request I want to make, and if so whether the files are available here.
 - determine if one of these listed Requests is similar to the Request I want to make, and if so what information I can learn from it to improve my chances of making a successful Request.
-On the Make a Request page, I can...
+
+**On the Make a Request page, I can...**
 - tell how many steps there are in this form.
 - understand what information is required for each step, and why.
 - see which steps might require information that I can glean from the Knowledge Base.
@@ -81,7 +84,7 @@ On the Make a Request page, I can...
 ### Wireframes PNGs:
 | Homepage | Search Results & Knowledgbase | View Results | Make a Request |
 |-----------|-------|-------|-------|
-| ![Open Records Homepage](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-Homepage-Annamatic.png) | ![Open Records Knowledgbase](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-Knowledgebase-Annamatic.png) | ![Open Records View Requests](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-ViewRequests-Annamatic.png) | ![Open Records Make Request 1](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-MakeaRequest1.png) |
+| ![Open Records Homepage](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-Homepage-Annamatic.png) <a href="https://www.draw.io/?lightbox=1&target=blank&highlight=0000ff&edit=_blank&layers=1&title=OpenRecords-Drawio-Homepage-Annamatic.html#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fannamatic%2Fopen-records-hackathon%2Fmaster%2FOpenRecords-Drawio-Homepage-Annamatic.html" target="_blank">Open the Homepage wireframe in Draw.io</a> | ![Open Records Knowledgbase](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-Knowledgebase-Annamatic.png) | ![Open Records View Requests](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-ViewRequests-Annamatic.png) | ![Open Records Make Request 1](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-MakeaRequest1.png) |
 | | ![Open Records Search Results](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-SearchResults-Annamatic.png) | ![Open Records View Requests Agency Closed](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-ViewRequests2-Annamatic.png) | ![Open Records Make Request 2](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-MakeaRequest2.png) |
 | | | | ![Open Records Make Request 3](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-MakeaRequest3.png) |
 | | | | ![Open Records Make Request 4](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-MakeaRequest4.png) |
