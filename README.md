@@ -1,11 +1,12 @@
 Hello! Here's my submission to the Open Records Hackathon February 25, 2017, a short UI/UX analysis and wireframes for the Open Records FOIL Request site.
 
-[User Roles](#user-roles)
-[User Stories and Personas](#user-stories-and-personas)
-[User Flows](#user-flows)
-[User Goals](#user-goals)
-[Wireframes Clickthrough PDF](#wireframes-clickthrough-pdf)
-[Wireframes PNGs](#wireframes-pngs)
+* [User Roles](#user-roles)
+
+* [User Stories and Personas](#user-stories-and-personas)
+* [User Flows](#user-flows)
+* [User Goals](#user-goals)
+* [Wireframes Clickthrough PDF](#wireframes-clickthrough-pdf)
+* [Wireframes PNGs](#wireframes-pngs)
 
 ### User Roles:
 
