@@ -6,7 +6,7 @@ Hello! Here's my submission to the Open Records Hackathon February 25, 2017, a s
 * [User Stories and Personas](#user-stories-and-personas)
 * [User Flows](#user-flows)
 * [User Goals](#user-goals)
-* [Some recommended Features](#some-recommended-features)
+* [Some Recommended Features](#some-recommended-features)
 * [Wireframes Clickthrough PDF](#wireframes-clickthrough-pdf)
 * [Wireframes PNGs](#wireframes-pngs)
 
