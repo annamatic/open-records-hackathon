@@ -1,6 +1,4 @@
-Hello! Here's my submission to the Open Records Hackathon February 25, 2017, a short UI/UX analysis and wireframes for the Open Records FOIL Request site.
-
-
+Hello! Here's my submission to the Open Records Hackathon February 25, 2017, a short UI/UX analysis and wireframes for the Open Records FOIL Request site. This submission addresses all 3 challenges: 1) Making a Request, 2) User Introduction/Guidance (the emphasis is on the homepage) and 3) Search, View, Track Past Requested Records, but is primarily focused on Challenge 2.
 
 ### Table of Contents
 * [What I Did](#what-i-did)
@@ -40,6 +38,8 @@ The proposed user flow is based on the typical structure of a technical or custo
 ![Open Records User Flow](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-UserFlows.png)
 [Open the User Flow Diagram in Draw.io](https://www.draw.io/?lightbox=1&target=blank&highlight=0000ff&edit=_blank&layers=1&title=OpenRecords-Drawio-UserFlows.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fannamatic%2Fopen-records-hackathon%2Fmaster%2FOpenRecords-Drawio-UserFlows.xml)
 
+Note: While it could be technically possible to make numerous different Make a Request forms, each one with fields specific to the needs of each agency (ex. NYPD: Precinct #, Offense, Victim, Date) helping Newbies immensely, this would probably introduce too much friction into the form submission process for Pro users, and would be difficult to maintain and update should agencies update their processes. For this reason, I propose providing basic informational articles and links to resources in an easily searchable Knowledge Base, to allow users to inform themselves.
+
 [Back to top](#table-of-contents)
 
 ### User Goals:
@@ -69,21 +69,23 @@ On the Make a Request page, I can...
 [Back to top](#table-of-contents)
 
 ### Some recommended features
-
+| Homepage | Search Results & Knowledgbase | View Results | Make a Request |
+|-----------|-------|-------|-------|
+| Priorite a search field to encourage Newbie users to find information about their Request before beginning the Make a Request Process | Create and organize content about city agencies, their Subject Matter Lists, and recommendations about the FOIL Request submission processes for each. Compile a list of external links to those agency FOIL information pages. Compile a list of city record requests that are commonly mistaken for FOIL Requests and redirect users to those relevant websites | Standardize the visual communication for "Open" vs. "Closed" status. Standardize the visual communication for outcomes, such as "Open: Waiting", "Open: Processing", "Closed: Completed" and "Closed: Denied." | Use progressive disclosure to let user focus on 1 step at a time, and allow user to skip ahead in the form |
 
 [Back to top](#table-of-contents)
 
 ### Wireframes Clickthrough PDF
-[Download the PDF here and open in Acrobat Reader. Yellow areas are clickable.](/images/OpenRecords_Clickthrough_Annamatic.pdf)
+[Download the PDF here and open in Acrobat Reader. Yellow areas are clickable.](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords_Clickthrough_Annamatic.pdf)
 
 ### Wireframes PNGs:
 | Homepage | Search Results & Knowledgbase | View Results | Make a Request |
 |-----------|-------|-------|-------|
-| ![Open Records Homepage](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-Homepage-Annamatic.png) | ![Open Records Knowledgbase](/images/OpenRecords-Drawio-Knowledgebase-Annamatic.png) | ![Open Records View Requests](/images/OpenRecords-Drawio-ViewRequests-Annamatic.png) | ![Open Records Make Request 1](/images/OpenRecords-Drawio-MakeaRequest1.png) |
-| | ![Open Records Search Results](/images/OpenRecords-Drawio-SearchResults-Annamatic.png) | ![Open Records View Requests Agency Closed](/images/OpenRecords-Drawio-ViewRequests2-Annamatic.png) | ![Open Records Make Request 2](/images/OpenRecords-Drawio-MakeaRequest2.png) |
-| | | | ![Open Records Make Request 3](/images/OpenRecords-Drawio-MakeaRequest3.png) |
-| | | | ![Open Records Make Request 4](/images/OpenRecords-Drawio-MakeaRequest4.png) |
-| | | | ![Open Records Make Request 5](/images/OpenRecords-Drawio-MakeaRequest5.png) |
-| | | | ![Open Records Make Request 6](/images/OpenRecords-Drawio-MakeaRequest6.png) |
+| ![Open Records Homepage](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-Homepage-Annamatic.png) | ![Open Records Knowledgbase](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-Knowledgebase-Annamatic.png) | ![Open Records View Requests](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-ViewRequests-Annamatic.png) | ![Open Records Make Request 1](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-MakeaRequest1.png) |
+| | ![Open Records Search Results](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-SearchResults-Annamatic.png) | ![Open Records View Requests Agency Closed](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-ViewRequests2-Annamatic.png) | ![Open Records Make Request 2](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-MakeaRequest2.png) |
+| | | | ![Open Records Make Request 3](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-MakeaRequest3.png) |
+| | | | ![Open Records Make Request 4](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-MakeaRequest4.png) |
+| | | | ![Open Records Make Request 5](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-MakeaRequest5.png) |
+| | | | ![Open Records Make Request 6](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords-Drawio-MakeaRequest6.png) |
 
 [Back to top](#table-of-contents)
