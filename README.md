@@ -13,12 +13,12 @@ Hello!
 
 | **A. Mr. Chan, 67** | **C. Mr. Smith, 48** |
 |------------------|------------------|
-| *would like a copy of the police report he made for a broken window on his storefront for his insurance company.* | *is seeking any past disciplinary records for two police officers M.B. and L.K.* | 
+| **would like a copy of the police report he made for a broken window on his storefront for his insurance company.** | **is seeking any past disciplinary records for two police officers M.B. and L.K.** | 
 | <small>Mr. Chan owns a grocery store in Ridgewood. His window was broken several years ago too, and that time he remembers he filled out some kind of paper form to get copy of the police report for insurance. This time he wants to do it online because "the Internet is faster." He's "not so good at the Internet" so his teenage son is helping him. Together they Googled and came across Open Records.</small> | <small>Mr. Smith has made many FOIL Requests before, but this is his first time using the Open Records site to do it. He is an investigative journalist with 15 years experience. Mr. Smith's FOIL Requests have been mostly to the Police Department and the Office of the Medical Examiner via printed and mailed letters. He keeps a spreadsheet tracking his FOIL requests.</small> |
 
 | **B. Ms. Nelson, 43** | **D. Ms. Oslow, 35** |
 |------------------|------------------|
-| *would like to see personnel records for a specific teacher at the zoned middle school in her neighborhood.* | *is seeking all 311 complaint records for 3 different buildings managed by XYZ.* | 
+| **would like to see personnel records for a specific teacher at the zoned middle school in her neighborhood.** | **is seeking all 311 complaint records for 3 different buildings managed by XYZ.** | 
 | <small>Ms. Nelson is a part of a parents' group in her neighborhood in District 24. Her son will be attending their zoned middle school next year. She has heard 2nd-hand that many other parents had complained about one of the teachers, but the schoool's parent coordinator would not confirm it. She might put her son in the nearby Catholic school next year because of her concerns. Because she works full-time, she has to do her online research at night.</small> | <small>Ms. Oslow is a young attorney with 5 years experience. Sometimes her paralegal assists her with FOIL requests and sometimes she does them herself. In the past, she has emailed her FOIL Requests to the relevant Records Officer, but she thinks that doing it on Open Records might help her keep track of them. She is currently representing a client in a personal injury lawsuit against a building management company.</small> |
   
 ### User Flows:
@@ -52,11 +52,11 @@ Hello!
   - I can check the status of an existing Request by tracking it with a FOIL ID#. 
   
 3. **On the Make a Request page, I can see that...**
-  - the information required in the form fall into 3 main steps, and that the 1st step will have public information while the 2nd and 3rd steps are private.
-  - I will need specific background knowledge to fill out the Summary and the Description in the best way. 
-  - at least 1 form of contact information will be required.
+  - the information required in the form fall into 5 steps, and I can tell at each step whether the information will be public or private.
+  - I can check the Knowledge Base for specific information to fill out the Summary and the Description in the best way. 
+  - at the final step, at least 1 form of contact information will be required.
 
 ### Wireframes:
 | Homepage | Search Results & Knowledgbase | View Results | Make a Request |
 |-----------|-------|-------|-------|
-| ![Open Records Homepage](/images/OpenRecords-Drawio-Homepage-Annamatic.png) [Open the Home Page Wireframe in Draw.io](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&title=OpenRecords-Drawio-Homepage-Annamatic.html#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fannamatic%2Fopen-records-hackathon%2Fmaster%2FOpenRecords-Drawio-Homepage-Annamatic.html) | ![Open Records Knowledgbase](/images/OpenRecords-Drawio-Knowledgebase-Annamatic.png) ![Open Records Search Results](/images/OpenRecords-Drawio-SearchResults-Annamatic.png)| ![Open Records View Requests](/images/OpenRecords-Drawio-ViewRequests-Annamatic.png) ![Open Records View Requests Agency Closed](/images/OpenRecords-Drawio-ViewRequests2-Annamatic.png) | ![Open Records Make Request 1](/images/OpenRecords-Drawio-RequestaRecord1.png) ![Open Records Make Request 2](/images/OpenRecords-Drawio-RequestaRecord2.png) |
+| ![Open Records Homepage](/images/OpenRecords-Drawio-Homepage-Annamatic.png) [Open the Home Page Wireframe in Draw.io](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&title=OpenRecords-Drawio-Homepage-Annamatic.html#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fannamatic%2Fopen-records-hackathon%2Fmaster%2FOpenRecords-Drawio-Homepage-Annamatic.html) | ![Open Records Knowledgbase](/images/OpenRecords-Drawio-Knowledgebase-Annamatic.png) ![Open Records Search Results](/images/OpenRecords-Drawio-SearchResults-Annamatic.png)| ![Open Records View Requests](/images/OpenRecords-Drawio-ViewRequests-Annamatic.png) ![Open Records View Requests Agency Closed](/images/OpenRecords-Drawio-ViewRequests2-Annamatic.png) | ![Open Records Make Request 1](/images/OpenRecords-Drawio-MakeaRequest1.png) ![Open Records Make Request 2](/images/OpenRecords-Drawio-MakeaRequest2.png) ![Open Records Make Request 3](/images/OpenRecords-Drawio-MakeaRequest3.png) ![Open Records Make Request 4](/images/OpenRecords-Drawio-MakeaRequest4.png) ![Open Records Make Request 5](/images/OpenRecords-Drawio-MakeaRequest5.png) ![Open Records Make Request 6](/images/OpenRecords-Drawio-MakeaRequest6.png) |
