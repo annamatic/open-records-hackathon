@@ -67,7 +67,8 @@ Hello! Here's my submission to the Open Records Hackathon February 25, 2017, a s
 
 [Back to top](#table-of-contents)
 
-[### Wireframes Clickthrough PDF](/images/OpenRecords_Clickthrough_Annamatic.pdf)
+### Wireframes Clickthrough PDF
+[Download the PDF here and open in Acrobat Reader. Yellow areas are clickable.](/images/OpenRecords_Clickthrough_Annamatic.pdf)
 
 ### Wireframes PNGs:
 | Homepage | Search Results & Knowledgbase | View Results | Make a Request |
