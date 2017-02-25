@@ -1,24 +1,28 @@
-# open-records-hackathon
-Short UI/UX analysis and wireframes for Open Records
+Hello! Here's my submission to the Open Records Hackathon February 25, 2017, a short UI/UX analysis and wireframes for the Open Records FOIL Request site.
 
-Hello!
+[User Roles](#user-roles)
+[User Stories and Personas](#user-stories-and-personas)
+[User Flows](#user-flows)
+[User Goals](#user-goals)
+[Wireframes Clickthrough PDF](#wireframes-clickthrough-pdf)
+[Wireframes PNGs](#wireframes-pngs)
 
 ### User Roles:
 
 | Newbie Requester | Pro Requester |  
 |------------------|------------------|
-| Someone who has has never made a FOIL Request before on- or off-line. The Newbie Requester may lack knowledge of: how city agencies work or interact, which agency would address his concerns, and/or what kinds of information are held in agency records. *Examples of a Newbie Requester: Crime Victim, Neighborhood/Community Advocate (for ex. neighborhood crime watch group), Concerned Parent.* | Someone who has made FOIL records requests before, most probably as a part of his or her job. The Pro Requester may be new to requesting online. *Examples of a Pro Requester: Attorney, Investigative Journalist, Neighborhood/Community Advocate Groups (for ex. Straphangers Campaign, See Through NY)* |
+| Someone who has has never made a FOIL Request before on- or off-line. The Newbie Requester may lack knowledge of: how city agencies work or interact, which agency would address his concerns, and/or what kinds of information are held in agency records. *Examples of a Newbie Requester: Crime Victim, Neighborhood/Community Advocate (for ex. neighborhood crime watch group), Concerned Parent.* | Someone who has made FOIL records requests before, most probably as a part of his or her job. The Pro Requester may be new to requesting online. *Examples of a Pro Requester: Attorney, Investigative Journalist, Neighborhood or Community Advocate Groups (for ex. Straphangers Campaign, See Through NY)* |
 
-### User Stories & Personas:
+### User Stories and Personas:
 
 | **A. Mr. Chan, 67** | **C. Mr. Smith, 48** |
 |------------------|------------------|
-| **would like a copy of the police report he made for a broken window on his storefront for his insurance company.** | **is seeking any past disciplinary records for two police officers M.B. and L.K.** | 
+| *would like a copy of the police report he made for a broken window on his storefront for his insurance company.* | *is seeking any past disciplinary records for two police officers M.B. and L.K.* | 
 | <small>Mr. Chan owns a grocery store in Ridgewood. His window was broken several years ago too, and that time he remembers he filled out some kind of paper form to get copy of the police report for insurance. This time he wants to do it online because "the Internet is faster." He's "not so good at the Internet" so his teenage son is helping him. Together they Googled and came across Open Records.</small> | <small>Mr. Smith has made many FOIL Requests before, but this is his first time using the Open Records site to do it. He is an investigative journalist with 15 years experience. Mr. Smith's FOIL Requests have been mostly to the Police Department and the Office of the Medical Examiner via printed and mailed letters. He keeps a spreadsheet tracking his FOIL requests.</small> |
 
 | **B. Ms. Nelson, 43** | **D. Ms. Oslow, 35** |
 |------------------|------------------|
-| **would like to see personnel records for a specific teacher at the zoned middle school in her neighborhood.** | **is seeking all 311 complaint records for 3 different buildings managed by XYZ.** | 
+| *would like to see personnel records for a specific teacher at the zoned middle school in her neighborhood.* | *is seeking all 311 complaint records for 3 different buildings managed by XYZ.* | 
 | <small>Ms. Nelson is a part of a parents' group in her neighborhood in District 24. Her son will be attending their zoned middle school next year. She has heard 2nd-hand that many other parents had complained about one of the teachers, but the schoool's parent coordinator would not confirm it. She might put her son in the nearby Catholic school next year because of her concerns. Because she works full-time, she has to do her online research at night.</small> | <small>Ms. Oslow is a young attorney with 5 years experience. Sometimes her paralegal assists her with FOIL requests and sometimes she does them herself. In the past, she has emailed her FOIL Requests to the relevant Records Officer, but she thinks that doing it on Open Records might help her keep track of them. She is currently representing a client in a personal injury lawsuit against a building management company.</small> |
   
 ### User Flows:
