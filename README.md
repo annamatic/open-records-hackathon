@@ -1,5 +1,8 @@
 Hello! Here's my submission to the Open Records Hackathon February 25, 2017, a short UI/UX analysis and wireframes for the Open Records FOIL Request site.
 
+### What I did:
+After analyzing the current site and researching other sites like FOIA Machine and Muckrock, I drafted definitions for two types of user roles (Newbie and Pro), and wrote stories and personas for 4 different users. With the Open Records challenges, and these 4 "people" in mind, I envisioned the ideal user flow that would not only simplify the Make a Request process, but also increase the quality of resulting Requests so that both agencies and users could benefit. 
+
 ### Table of Contents
 * [User Roles](#user-roles)
 * [User Stories and Personas](#user-stories-and-personas)
@@ -29,6 +32,8 @@ Hello! Here's my submission to the Open Records Hackathon February 25, 2017, a s
 [Back to top](#table-of-contents)
 
 ### User Flows:
+The proposed user flow is based on the typical structure of a technical or customer support website, prioritizing a Knowledge Base (so users can search and browse pertinent information) and View Requests list (that can easily be filtered, sorted and scanned for information). For Newbie users, by prioritizing, anticipating and answering many of their questions on-site, Open Records can "filter out" users who in fact don't need file a FOIA request and "prime" other users with quality information that will help them write better Requests. Pro users can skip these steps and easily proceed to View Requests or Making a Request. After a Request has been made, a confirmation screen gives feedback to the user that their Request has been sent, and provides a tracking number. Notifications sent by Open Records can be used to alert users who have made Requests when information in the Request has been updated. It is possible to introduce a login/password at this point for users to view more secure information related to their Requests, but this part of the flow has not been mapped for this project.
+
 ![Open Records User Flow](/images/OpenRecords-Drawio-UserFlows.png)
 [Open the User Flow Diagram in Draw.io](https://www.draw.io/?lightbox=1&target=blank&highlight=0000ff&edit=_blank&layers=1&title=OpenRecords-Drawio-UserFlows.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fannamatic%2Fopen-records-hackathon%2Fmaster%2FOpenRecords-Drawio-UserFlows.xml)
 
@@ -36,11 +41,32 @@ Hello! Here's my submission to the Open Records Hackathon February 25, 2017, a s
 
 ### User Goals:
 
-| On the Homepage, I can... | From my Search Results & the Knowledge Base, I can... | On the View Results page, I can... | On the Make a Request page, I can... |
-|-------|-------|-------|-------|
-| <ul><li>see that this is a website to submit Requests for documents from the city government.</li><li>search for information about how to submit a Request.</li><li>see a link to view current and past Requests.</li><li>see that I can make my own Request.</li></ul> | <ul><li>see which city agency supplies the records that I’m looking for.</li><li>tell that not all requests are successful and that this has something to do with what information I put in the request.</li><li>see that there is advice available about what information to include in my specific request to improve my chances of success.</li><li>see what other people have searched for.</li></ul> | <ul><li>track an existing Request by FOIL ID#.</li><li>determine if one of these listed Requests is the same as the Request I want to make, and if so whether the files are available here.</li><li>determine if one of these listed Requests is similar to the Request I want to make, and if so what information I can learn from it to improve my chances of making a successful Request.</li></ul> | <ul><li>tell how many steps there are in this form.</li><li>understand what information is required for each step, and why.</li><li>see which steps might require information that I can glean from the Knowledge Base.</li><li>tell whether information from each step will be public or private.</li><li>understand how far along in the form submission process I am.</li></ul> |
-| Recommended features | Recommended features | Recommended features | Recommended features |
-|  |  | <ul><li>encourage increased quality of Request Titles during the Make a Request process</li><li>clarify the communication of Status and Outcome, showing whether Status is Open or Closed. If Open is it Waiting (for Agency acknowledgement) or Processing, and if Closed, is it Completed or Denied?</li><li>if Request is completed, offer information about whether files are attached with the Request</li><li>if denied, show why the Request was denied</li><li></ul> | <ul><li><li></ul> |
+On the Homepage, I can...
+- see that this is a website to submit Requests for documents from the city government.
+- search for information about how to submit a Request.
+- see a link to view current and past Requests.
+- see that I can make my own Request.
+On the Search Results and in the Knowledge Base, I can...
+- find information about which city agency supply the records that I’m looking for.
+- tell that not all requests are successful and that this has something to do with what information I put in the request.
+- see that there is advice available about what information to include in my specific request to improve my chances of success.
+- see what other people have searched for.
+On the View Results page, I can...
+- track an existing Request by FOIL ID#.
+- determine if one of these listed Requests is the same as the Request I want to make, and if so whether the files are available here.
+- determine if one of these listed Requests is similar to the Request I want to make, and if so what information I can learn from it to improve my chances of making a successful Request.
+On the Make a Request page, I can...
+- tell how many steps there are in this form.
+- understand what information is required for each step, and why.
+- see which steps might require information that I can glean from the Knowledge Base.
+- tell whether information from each step will be public or private.
+- understand how far along in the form submission process I am.
+- tell when I am done, and confirm that the Request has been delivered.
+
+[Back to top](#table-of-contents)
+
+### Some recommended features
+
 
 [Back to top](#table-of-contents)
 
