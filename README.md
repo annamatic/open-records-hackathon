@@ -32,6 +32,8 @@ Hello! Here's my submission to the Open Records Hackathon February 25, 2017, a s
 ![Open Records User Flow](/images/OpenRecords-Drawio-UserFlows.png)
 [Open the User Flow Diagram in Draw.io](https://www.draw.io/?lightbox=1&target=blank&highlight=0000ff&edit=_blank&layers=1&title=OpenRecords-Drawio-UserFlows.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fannamatic%2Fopen-records-hackathon%2Fmaster%2FOpenRecords-Drawio-UserFlows.xml)
 
+[Back to top](#table-of-contents)
+
 ### User Goals:
 1. **On the Homepage, I can see that...**
   - this is a place to submit Requests for documents from the city government. 
@@ -65,7 +67,7 @@ Hello! Here's my submission to the Open Records Hackathon February 25, 2017, a s
 
 [Back to top](#table-of-contents)
 
-### Wireframes:
+### Wireframes PNGs:
 | Homepage | Search Results & Knowledgbase | View Results | Make a Request |
 |-----------|-------|-------|-------|
 | ![Open Records Homepage](/images/OpenRecords-Drawio-Homepage-Annamatic.png) | ![Open Records Knowledgbase](/images/OpenRecords-Drawio-Knowledgebase-Annamatic.png) | ![Open Records View Requests](/images/OpenRecords-Drawio-ViewRequests-Annamatic.png) | ![Open Records Make Request 1](/images/OpenRecords-Drawio-MakeaRequest1.png) |
