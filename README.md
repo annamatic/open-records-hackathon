@@ -1,15 +1,18 @@
 Hello! Here's my submission to the Open Records Hackathon February 25, 2017, a short UI/UX analysis and wireframes for the Open Records FOIL Request site.
 
-### What I did:
-After analyzing the current site and researching other sites like FOIA Machine and Muckrock, I drafted definitions for two types of user roles (Newbie and Pro), and wrote stories and personas for 4 different users. With the Open Records challenges, and these 4 "people" in mind, I envisioned the ideal user flow that would not only simplify the Make a Request process, but also increase the quality of resulting Requests so that both agencies and users could benefit. 
+
 
 ### Table of Contents
+* [What I Did](#what-i-did)
 * [User Roles](#user-roles)
 * [User Stories and Personas](#user-stories-and-personas)
 * [User Flows](#user-flows)
 * [User Goals](#user-goals)
 * [Wireframes Clickthrough PDF](#wireframes-clickthrough-pdf)
 * [Wireframes PNGs](#wireframes-pngs)
+
+### What I did:
+After analyzing the current site and researching other sites like <a href="https://www.foiamachine.org/" target="_blank">FOIA Machine</a>, <a href="https://foiamapper.com/" target="_blank">FOIA Mapper</a> and <a href="https://www.muckrock.com/" target="_blank">Muckrock</a>, I drafted definitions for two types of user roles (Newbie and Pro), and wrote stories and personas for 4 different users. With the Open Records challenges and these 4 "people" in mind, I envisioned the ideal user flow that would not only simplify the Make a Request process, but also increase the quality of resulting Requests so that both agencies and users could benefit. I then used these flows as a basis for constructing wireframes for key pages of Open Records.
 
 ### User Roles:
 
