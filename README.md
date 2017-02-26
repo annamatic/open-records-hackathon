@@ -81,7 +81,7 @@ Note: While it could be technically possible to make numerous different Make a R
 [Back to top](#table-of-contents)
 
 ### Wireframes Clickthrough PDF
-[Download the PDF here and open in Acrobat Reader. Yellow areas are clickable.](https://github.com/annamatic/open-records-hackathon/blob/master/images/OpenRecords_Clickthrough_Annamatic.pdf)
+[Download the PDF here and open in Acrobat Reader. Yellow areas are clickable.](https://dl.dropboxusercontent.com/u/38599/OpenRecords_Clickthrough_Annamatic.pdf)
 
 ### Wireframes PNGs:
 | Homepage | Search Results & Knowledgbase | View Results | Make a Request |
