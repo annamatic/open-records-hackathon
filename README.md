@@ -1,4 +1,4 @@
-Hello! Here's my submission to the Open Records Hackathon February 25, 2017, a short UI/UX analysis and wireframes for the Open Records FOIL Request site. This submission addresses all 3 challenges: 1) Making a Request, 2) User Introduction/Guidance (the emphasis is on the homepage) and 3) Search, View, Track Past Requested Records, but is primarily focused on Challenge 2.
+Hello! Here's my submission to the <a href="https://openrecordsuxvirtual.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=discover" target="_blank">Open Records Hackathon February 25, 2017</a>, a short UI/UX analysis and wireframes for the Open Records FOIL Request site. This submission addresses all 3 challenges: 1) Making a Request, 2) User Introduction/Guidance (the emphasis is on the homepage) and 3) Search, View, Track Past Requested Records, but is primarily focused on Challenge 2.
 
 ### Table of Contents
 * [What I Did](#what-i-did)
